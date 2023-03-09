@@ -1,0 +1,13 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_F4C70636_C3E0_051A_41E7_17D18C9B42A2.label = R0011367
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 145
